@@ -6,4 +6,4 @@
 ## Оглавление
 
 1. НТТЭК ERP
-  1.2. Расписание (legacy-метод)
+12. [Расписание (legacy-метод)](https://github.com/Nizhny-Tagil-Trade-and-Economic-College/docs/blob/main/NTTEK%20ERP/Educational%20part/Schedule/legacy.md "Расписание (legacy-метод)")
