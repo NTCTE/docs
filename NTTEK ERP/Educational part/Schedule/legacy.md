@@ -195,7 +195,7 @@ curl --location --request GET 'https://erp.nttek.ru/api/schedule/legacy/2022-10-
 
 Если запрос был к ```teacher```, с ```name: Репьев ЕД```. Пример запроса:
 ```curl
-curl --location --request GET 'https://erp.nttek.ru/api/schedule/legacy/2022-10-12/teacher/Репьев ЕД'
+curl --location --request GET 'https://erp.nttek.ru/api/schedule/legacy/2022-10-12/teacher/Репьев%20ЕД'
 ```
 
 Пример ответа:
