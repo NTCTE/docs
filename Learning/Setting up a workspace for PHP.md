@@ -32,7 +32,7 @@ wsl --install
 ```bash
 $  sudo add-apt-repository -y ppa:ondrej/php && \
    sudo apt update && sudo apt upgrade -y && \
-   sudo apt install -y openssl curl unzip mysql-server sqlite3 php8.3-{common,cli,bcmath,curl,mbstring,mysql,tokenizer,xml,zip,sqlite3} && \
+   sudo apt install -y openssl curl unzip mysql-server sqlite3 php8.5-{common,cli,bcmath,curl,mbstring,mysql,tokenizer,xml,zip,sqlite3} && \
    sudo curl -sS https://getcomposer.org/installer -o /tmp/composer-setup.php && \
    sudo php /tmp/composer-setup.php --install-dir=/usr/local/bin --filename=composer
 ```
